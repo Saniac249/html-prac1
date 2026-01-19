@@ -1,0 +1,13 @@
+body {
+  background-color: green;
+  color: pink;
+}
+
+#first-div {
+  background: green;
+}
+
+.para-style {
+  color: pink;
+  font-size: 2rem;
+}
